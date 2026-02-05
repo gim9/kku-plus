@@ -1,6 +1,4 @@
-# AI React Website Template
-
-A flexible, feature-rich React template designed for AI-generated websites with modern development tools and libraries.
+# React Website Template
 
 ## ✨ Key Features
 
@@ -29,28 +27,6 @@ A flexible, feature-rich React template designed for AI-generated websites with 
 - Headless UI 1.7.18 (UI components)
 - Lucide React (Icon library)
 
-## 🚀 Quick Start
-
-1. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-2. **Start development server**:
-   ```bash
-   npm run dev
-   ```
-   Visit http://localhost:5173 to view the application
-
-3. **Build for production**:
-   ```bash
-   npm run build
-   ```
-
-4. **Preview build**:
-   ```bash
-   npm run preview
-   ```
 
 ## 📁 Project Structure
 
@@ -67,6 +43,3 @@ src/
 └── main.tsx         # Application entry point
 ```
 
-## More Information
-
-For more detailed project structure, tech stack, configuration instructions and development guide, please refer to the [YOUWARE.md](./YOUWARE.md) file.
